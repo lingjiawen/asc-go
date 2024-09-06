@@ -30,7 +30,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/lingjiawen/asc-go"
+	"github.com/lingjiawen/asc-go/asc"
 )
 
 var (
