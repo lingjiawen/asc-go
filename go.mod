@@ -1,4 +1,4 @@
-module github.com/lingjiawen/asc-go
+module github.com/lingjiawen/asc-go/asc
 
 go 1.16
 
