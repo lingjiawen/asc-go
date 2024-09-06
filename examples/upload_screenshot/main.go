@@ -30,7 +30,7 @@ import (
 	"os"
 
 	"github.com/lingjiawen/asc-go/asc"
-	"github.com/cidertool/asc-go/examples/util"
+	"github.com/lingjiawen/asc-go/asc/examples/util"
 )
 
 var (

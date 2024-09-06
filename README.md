@@ -1,7 +1,7 @@
 # asc-go
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/lingjiawen/asc-go/asc)](https://pkg.go.dev/github.com/lingjiawen/asc-go/asc)
-[![Test Status](https://github.com/cidertool/asc-go/workflows/Run%20Tests/badge.svg)](https://github.com/cidertool/asc-go/actions?query=workflow%253A%2522Run+Tests%2522)
+[![Test Status](https://github.com/lingjiawen/asc-go/asc/workflows/Run%20Tests/badge.svg)](https://github.com/lingjiawen/asc-go/asc/actions?query=workflow%253A%2522Run+Tests%2522)
 [![codecov](https://codecov.io/gh/cidertool/asc-go/branch/main/graph/badge.svg)](https://codecov.io/gh/cidertool/asc-go)
 
 asc-go is a Go client library for accessing Apple's [App Store Connect API](https://developer.apple.com/documentation/appstoreconnectapi).
@@ -27,7 +27,7 @@ apps, _, err := client.Apps.ListApps(&asc.ListAppsQuery{
 
 The client is divided into logical chunks closely corresponding to the layout and structure of Apple's own documentation at <https://developer.apple.com/documentation/appstoreconnectapi>.
 
-For more sample code snippets, head over to the [examples](https://github.com/cidertool/asc-go/tree/main/examples) directory.
+For more sample code snippets, head over to the [examples](https://github.com/lingjiawen/asc-go/asc/tree/main/examples) directory.
 
 ### Authentication
 
