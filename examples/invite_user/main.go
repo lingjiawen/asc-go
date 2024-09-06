@@ -27,8 +27,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/lingjiawen/asc-go/asc"
-	"github.com/lingjiawen/asc-go/asc/examples/util"
+	"github.com/lingjiawen/asc-go"
+	"github.com/lingjiawen/asc-go/examples/util"
 )
 
 var (
