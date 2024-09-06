@@ -1,6 +1,6 @@
 # asc-go
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/cidertool/asc-go/asc)](https://pkg.go.dev/github.com/cidertool/asc-go/asc)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/lingjiawen/asc-go/asc)](https://pkg.go.dev/github.com/lingjiawen/asc-go/asc)
 [![Test Status](https://github.com/cidertool/asc-go/workflows/Run%20Tests/badge.svg)](https://github.com/cidertool/asc-go/actions?query=workflow%253A%2522Run+Tests%2522)
 [![codecov](https://codecov.io/gh/cidertool/asc-go/branch/main/graph/badge.svg)](https://codecov.io/gh/cidertool/asc-go)
 
@@ -11,7 +11,7 @@ asc-go is a Go client library for accessing Apple's [App Store Connect API](http
 This project uses Go Modules. It requires **Go 1.16 or higher**.
 
 ```go
-import "github.com/cidertool/asc-go/asc"
+import "github.com/lingjiawen/asc-go/asc"
 ```
 
 Construct a new App Store Connect client, then use the various services on the client to access different parts of the App Store Connect API. For example:
@@ -38,7 +38,7 @@ import (
     "os"
     "time"
 
-    "github.com/cidertool/asc-go/asc"
+    "github.com/lingjiawen/asc-go/asc"
 )
 
 func main() {
@@ -102,7 +102,7 @@ for {
 }
 ```
 
-For complete usage of asc-go, see the full [package docs](https://pkg.go.dev/github.com/cidertool/asc-go/asc).
+For complete usage of asc-go, see the full [package docs](https://pkg.go.dev/github.com/lingjiawen/asc-go/asc).
 
 ## Contributing
 

@@ -25,7 +25,7 @@ Usage
 
 Import the package as you normally would:
 
-	import "github.com/cidertool/asc-go/asc"
+	import "github.com/lingjiawen/asc-go/asc"
 
 Construct a new App Store Connect client, then use the various services on the client to
 access different parts of the App Store Connect API. For example:
@@ -54,7 +54,7 @@ to look a little more like this:
 		"os"
 		"time"
 
-		"github.com/cidertool/asc-go/asc"
+		"github.com/lingjiawen/asc-go/asc"
 	)
 
 	func main() {

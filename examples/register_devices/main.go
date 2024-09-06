@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/cidertool/asc-go/asc"
+	"github.com/lingjiawen/asc-go/asc"
 	"github.com/cidertool/asc-go/examples/util"
 )
 

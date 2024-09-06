@@ -27,7 +27,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cidertool/asc-go/asc"
+	"github.com/lingjiawen/asc-go/asc"
 )
 
 const (
